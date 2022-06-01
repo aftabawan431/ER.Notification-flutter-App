@@ -1,0 +1,11 @@
+int? id;
+String? name;
+String? role;
+int? emergencyID;
+String? managerName;
+String? bankName;
+String? branchName;
+String? address;
+String? remarks;
+int? verificationCode;
+int? loginStatusCode;
